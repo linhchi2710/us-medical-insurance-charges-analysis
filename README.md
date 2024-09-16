@@ -35,9 +35,9 @@ The dataset contains 1,338 records with the following fields:
 - **Correlation Analysis**: Identified significant factors affecting insurance charges.
 - **Regression Analysis**: Predicted insurance charges using linear regression models.
 - **Data Visualizations**:
-  - **Box plots**: For comparing insurance charges across different regions and demographic groups.
-  - **Regression plots**: To show relationships between age, BMI, smoking status, and charges.
-  - **Histograms**: To illustrate the distribution of insurance charges.
+  **Box plots**: For comparing insurance charges across different regions and demographic groups.
+  **Regression plots**: To show relationships between age, BMI, smoking status, and charges.
+  **Histograms**: To illustrate the distribution of insurance charges.
 
 ## Dataset
 The dataset used in this analysis is publicly available on Kaggle and can be downloaded from the following link:
