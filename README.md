@@ -41,4 +41,4 @@ The dataset contains 1,338 records with the following fields:
 
 ## Dataset
 The dataset used in this analysis is publicly available on Kaggle and can be downloaded from the following link:
-[US Medical Insurance Costs Dataset on Kaggle]: (https://www.kaggle.com/datasets/mirichoi0218/insurance)
+https://www.kaggle.com/datasets/mirichoi0218/insurance
